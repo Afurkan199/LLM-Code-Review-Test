@@ -15,7 +15,8 @@ namespace CodeReviewTest
             int hataliSayi = sayilar[5]; 
             
             Console.WriteLine("Sayi: " + hataliSayi);   
-            //test
+            //test1 
+     
         }
     }
 }
